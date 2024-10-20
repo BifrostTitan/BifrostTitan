@@ -3,8 +3,8 @@
 
 
 📫 How to reach me:
-- tg.me/bifrosttitan
 - x.com/bifrosttitan
+- Telegram: BifrostTitan
 - Discord: BifrostTitan
 
 ## Open Source Contributions

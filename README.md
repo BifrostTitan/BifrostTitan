@@ -7,9 +7,15 @@
 - Telegram: BifrostTitan
 - Discord: BifrostTitan
 
-## Open Source Contributions
+
 # Bifrost Inc ![favicon](https://github.com/user-attachments/assets/60830d8b-5d29-4a08-bb42-54bb309e8063)
 
+## Quantum Libraries & Tools
+[Crystals](https://github.com/Bifrost-Technologies/Crystals) Rust Library & Solana Program(SmartContract) - Crystals is a post-quantum verification protocol for Solana leveraging the power of Dilithium 2 & 3 -- achieving more than 128 bits of security against all known classical and quantum attacks.
+
+[Solnet.Quantum](https://github.com/Bifrost-Technologies/Solnet.Quantum) Solnet.Quantum is a utility sdk designed to enhance the security of wallet generation by leveraging quantum randomness to generate unique seeds for Ed25519 & Dilithium keypairs.
+
+[Solnet.Crystals](https://github.com/Bifrost-Technologies/Solnet.Crystals) C# .NET 8.0 Library - Solnet.Crystals is a C# SDK & Client for the Crystals program on Solana.
 ## AI/ML Libraries & Tools
 [Lifespark.Genetics](https://github.com/Bifrost-Technologies/Lifespark.Genetics) C# .NET Core 6.0 Library - A biomimetic genetic encoder capable of encoding English or Latin text in to genetic code.
 

@@ -8,7 +8,7 @@
 - Discord: BifrostTitan
 
 
-# Bifrost Inc <img src="https://avatars.githubusercontent.com/u/119550733?s=64&v=4" width=40 />
+# <img src="https://avatars.githubusercontent.com/u/119550733?s=64&v=4" width=40 /> Bifrost Inc 
 
 ## Quantum Libraries & Tools
 [Crystals](https://github.com/Bifrost-Technologies/Crystals) Rust Library & Solana Program(SmartContract) - Crystals is a post-quantum verification protocol for Solana leveraging the power of Dilithium 2 & 3 -- achieving more than 128 bits of security against all known classical and quantum attacks.

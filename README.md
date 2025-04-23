@@ -1,13 +1,3 @@
-### Need outsourced development? 🔱
-#### Contact me for a quote
-
-
-📫 How to reach me:
-- x.com/bifrosttitan
-- Telegram: BifrostTitan
-- Discord: BifrostTitan
-
-
 # <img src="https://avatars.githubusercontent.com/u/119550733?s=64&v=4" width=40 /> Bifrost Inc 
 
 ## Quantum Libraries & Tools

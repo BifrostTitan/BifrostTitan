@@ -7,7 +7,7 @@
 
 [Solnet.Crystals](https://github.com/Bifrost-Technologies/Solnet.Crystals) C# .NET 8.0 Library - Solnet.Crystals is a C# SDK & Client for the Crystals program on Solana.
 ## AI/ML Libraries & Tools
-[Lifespark.Genetics](https://github.com/Bifrost-Technologies/Lifespark.Genetics) C# .NET Core 6.0 Library - A biomimetic genetic encoder capable of encoding English or Latin text in to genetic code.
+[Lifespark.Genetics](https://github.com/Bifrost-Technologies/Lifespark.Genetics) C# .NET Core 8.0 Library - A biomimetic genetics library & encoder that can encode data in to synthetic genetic code. It maps codons to Base64 characters, allowing efficient transformation between DNA sequences, Base64 encoding, and text/data.
 
 [Philosophers Stone](https://github.com/Bifrost-Technologies/Philosophers-Stone) C# .NET Core 6.0 Library - Machine Learning Cognitive Service capable of forecasting the crypto markets! Utilizing Microsoft Machine Learning & Intel MKL.
 

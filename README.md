@@ -6,7 +6,12 @@
 [Solnet.Quantum](https://github.com/Bifrost-Technologies/Solnet.Quantum) Solnet.Quantum is a utility sdk designed to enhance the security of wallet generation by leveraging quantum randomness to generate unique seeds for Ed25519 & Dilithium keypairs.
 
 [Solnet.Crystals](https://github.com/Bifrost-Technologies/Solnet.Crystals) C# .NET 8.0 Library - Solnet.Crystals is a C# SDK & Client for the Crystals program on Solana.
+
 ## AI/ML Libraries & Tools
+[Bifrost AI SDK](https://github.com/Bifrost-Technologies/Bifrost-AI-SDK) C# .NET 8.0 Library - Biomimetic Multi-Agent Genetics Framework for BitNet/LLaMA that allows developers to deploy LLMs locally using complex genetic code. Developers can craft persona's with unique chain-of-thought, while having access to an array of different capabilities.
+
+[Solana BitNet Oracle](https://github.com/Bifrost-Technologies/solana-bitnet-oracle) Rust Library & Solana program(SmartContract) - An on-chain oracle service for Bifrost AI that allows users to interact with the LLMs using the Solana blockchain. Provides an on-chain interface & oracle engine to process the on-chain states.
+
 [Lifespark.Genetics](https://github.com/Bifrost-Technologies/Lifespark.Genetics) C# .NET Core 8.0 Library - A biomimetic genetics library & encoder that can encode data in to synthetic genetic code. It maps codons to Base64 characters, allowing efficient transformation between DNA sequences, Base64 encoding, and text/data.
 
 [Philosophers Stone](https://github.com/Bifrost-Technologies/Philosophers-Stone) C# .NET Core 6.0 Library - Machine Learning Cognitive Service capable of forecasting the crypto markets! Utilizing Microsoft Machine Learning & Intel MKL.

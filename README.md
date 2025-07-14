@@ -5,6 +5,8 @@
 
 [Mirage Datasets](https://huggingface.co/collections/Bifrost-AI/mirage-datasets-685161508ede3cd0439770de) Mirage family datasets used for training.
 
+#### Download Mirage One from the Microsoft Store to use our models directly in our app. [View on Microsoft Store](https://apps.microsoft.com/detail/9n5llvdt1m85?hl=en-US&gl=US)
+
 #### *** Browse our selection of LLMs & datasets on Huggingface! [Here](https://huggingface.co/Bifrost-AI) 🤗 ***
 
 ## Quantum Libraries & Tools
